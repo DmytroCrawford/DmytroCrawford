@@ -1,6 +1,6 @@
 ## Hey there, welcome to my Github 👋
 
-My name is Dmytro Crawford, and I'm currently sudying Computer Science at the University at Buffalo 📚.
+My name is Dmytro Crawford, and I'm currently sudying Computer Science at the University of Michigan 📚.
 
 I love to work on websites, algorithms, crypto and creating projects which make
 peoples lives easier. I am proficient with [Javascript](https://www.javascript.com/),
