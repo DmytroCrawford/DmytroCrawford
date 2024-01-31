@@ -3,7 +3,7 @@
 My name is Dmytro Crawford, and I'm currently sudying Computer Science at the University of Michigan 📚.
 
 I love to work on websites, algorithms, crypto and creating projects which make
-peoples lives easier. I am proficient with [Javascript](https://www.javascript.com/),
+peoples lives easier. I am proficient with [C++](https://cplusplus.com/),
 [Scala](https://www.scala-lang.org/), [Python](https://www.python.org/), and C,
 amongst others. Currently hacking on React, typically partnered with Next.js and
 looking into building extensions for a few different applications. (Raycast, Shopify, Slack, etc)
